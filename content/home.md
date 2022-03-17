@@ -11,10 +11,6 @@ cats:
   - name: En ny katt
     description: Den blev fin!
 ---
-Welcome to my awesome page about cats of the internet.
+**Welcome to my awesome page about cats of the internet.**
 
 This page is built with NextJS, and content is managed in Netlify CMS
-
-
-
-![](img/screenshot-2022-03-17-at-08.12.45.png)
