@@ -2,3 +2,8 @@ body {
     background: gray;
     color: white;
 }
+
+.site-header {
+    background: white;
+    color: black;
+}
